@@ -46,6 +46,6 @@ MIT
 
 ## Link
  https://alvinjoyner.github.io/Horiseon-Landing-page/
-
+https://github.com/AlvinJoyner/Horiseon-Landing-page
 
 ## Features
