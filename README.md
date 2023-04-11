@@ -33,9 +33,8 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-## instalation 
-I had to gice semantic elemets to the genaric named divs. 
-Changing the syntax and making repeated lines of code in CSS slimed down to less lines of code
+## Instalation 
+I had to change the html and give it semantic elements 
 
 
 ## Credits
@@ -45,7 +44,7 @@ The beautiful UCf Coding Bootcamp team
 ## License
 MIT
 
-## Badges
-None
+## Link
+
 
 ## Features
