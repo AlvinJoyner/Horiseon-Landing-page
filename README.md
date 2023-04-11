@@ -45,6 +45,7 @@ The beautiful UCf Coding Bootcamp team
 MIT
 
 ## Link
+ https://alvinjoyner.github.io/Horiseon-Landing-page/
 
 
 ## Features
